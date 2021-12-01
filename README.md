@@ -1,7 +1,6 @@
-# Demo Git Repository
+### Demo Git Repository
 
 This is a first file in this repo.
 
-## Website Contents
-
-1. index.html
+#### Website Contents
+[Click here to visit](https://h3nsure.github.io/git-demo/)
